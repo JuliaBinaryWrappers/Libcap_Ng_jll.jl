@@ -1,81 +1,81 @@
 [[Libcap_Ng]]
 arch = "armv7l"
-git-tree-sha1 = "716649dbc2f74ada3eb7726d0efec6738d9f4f3b"
+git-tree-sha1 = "411204d48eabe6384a7ae7c94407476604b48a4a"
 libc = "glibc"
 os = "linux"
 
     [[Libcap_Ng.download]]
-    sha256 = "78bc07567f54e7b379bd183353b6fa1d313161cf44788a386fb8493e0905aff7"
-    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+0/Libcap_Ng.v0.7.10.arm-linux-gnueabihf.tar.gz"
+    sha256 = "d6a14299d6b3081724c15813842a28a0d0be3948692bc80e1e12a841738467a7"
+    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+1/Libcap_Ng.v0.7.10.armv7l-linux-gnueabihf.tar.gz"
+[[Libcap_Ng]]
+arch = "i686"
+git-tree-sha1 = "3f6c4c88ce6e38fdd2b421f42ae695a6fb800578"
+libc = "musl"
+os = "linux"
+
+    [[Libcap_Ng.download]]
+    sha256 = "67017bf423c2dc928b99ad79ff9bdfcc84dc060cc7eca13e353d7efe3fb33ea7"
+    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+1/Libcap_Ng.v0.7.10.i686-linux-musl.tar.gz"
 [[Libcap_Ng]]
 arch = "aarch64"
-git-tree-sha1 = "c8437cab620900ad297bd36f4531b450310bfd07"
-libc = "musl"
-os = "linux"
-
-    [[Libcap_Ng.download]]
-    sha256 = "19131fc9cd910526e5d5a0638b378cd988260bd4ca1160df433f02ca370bcbca"
-    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+0/Libcap_Ng.v0.7.10.aarch64-linux-musl.tar.gz"
-[[Libcap_Ng]]
-arch = "i686"
-git-tree-sha1 = "471918c13d09aa4beedf8fb948bcd1ffd11ca8ab"
-libc = "musl"
-os = "linux"
-
-    [[Libcap_Ng.download]]
-    sha256 = "61018e40d0410f634d25ebcbad9c3bc6bae2256fa2b7c704660638ee8b1c91b6"
-    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+0/Libcap_Ng.v0.7.10.i686-linux-musl.tar.gz"
-[[Libcap_Ng]]
-arch = "i686"
-git-tree-sha1 = "00468f18c9bd573d837b85a065337e7c21e68d69"
+git-tree-sha1 = "99432d943a621f34d8d843f112826c836d38c2f7"
 libc = "glibc"
 os = "linux"
 
     [[Libcap_Ng.download]]
-    sha256 = "e60128fcd264f35059d191d45e89370cfd5b6ba3842d09206bf3a15480e98aed"
-    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+0/Libcap_Ng.v0.7.10.i686-linux-gnu.tar.gz"
-[[Libcap_Ng]]
-arch = "powerpc64le"
-git-tree-sha1 = "e8f1e5f4d150d0a02cb3a852999f5f01bcc4d709"
-libc = "glibc"
-os = "linux"
-
-    [[Libcap_Ng.download]]
-    sha256 = "2921e72507e7050437a33e044713c5cddd5e4590f16d24aba25489fdfd8b05a4"
-    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+0/Libcap_Ng.v0.7.10.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "857543bc4ee3df67202143c9f3d492d58bf2ebb30f477f82aa38fc4627f2baca"
+    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+1/Libcap_Ng.v0.7.10.aarch64-linux-gnu.tar.gz"
 [[Libcap_Ng]]
 arch = "armv7l"
-git-tree-sha1 = "3eddc1844d3b11f44168996a00c04d4059297798"
+git-tree-sha1 = "d8050d9d4b81cc1f40e00bb067829fedf96c8d74"
 libc = "musl"
 os = "linux"
 
     [[Libcap_Ng.download]]
-    sha256 = "6b083eb9b92de6e8e419e92530114ebedabc2c0806190ce98c98ff1a813a90eb"
-    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+0/Libcap_Ng.v0.7.10.arm-linux-musleabihf.tar.gz"
+    sha256 = "1d1be40eaeac07de6c36e6e190088874555ec88fbf873a84d3c909d5fe9dc881"
+    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+1/Libcap_Ng.v0.7.10.armv7l-linux-musleabihf.tar.gz"
 [[Libcap_Ng]]
 arch = "aarch64"
-git-tree-sha1 = "48b1241c3f2884f47255f167c845a2a4611bb6d1"
-libc = "glibc"
-os = "linux"
-
-    [[Libcap_Ng.download]]
-    sha256 = "25a2e29c1856a284ab7a8c4f82b33110e69c6510367c088e99d601e036369727"
-    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+0/Libcap_Ng.v0.7.10.aarch64-linux-gnu.tar.gz"
-[[Libcap_Ng]]
-arch = "x86_64"
-git-tree-sha1 = "949cad8a41372e789c42f740a7cecf0709aba964"
-libc = "glibc"
-os = "linux"
-
-    [[Libcap_Ng.download]]
-    sha256 = "d4508c19b448d8b1fd846e7b8bba0ff371ff32fa32f86ade1904b1040bc8b538"
-    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+0/Libcap_Ng.v0.7.10.x86_64-linux-gnu.tar.gz"
-[[Libcap_Ng]]
-arch = "x86_64"
-git-tree-sha1 = "34f82bc05dac55cb32aba5b94a6c0f690ded6331"
+git-tree-sha1 = "92f05e5c253b33d1f4cdb357c8d135f45096c5b3"
 libc = "musl"
 os = "linux"
 
     [[Libcap_Ng.download]]
-    sha256 = "b72246fad7a71a8644af50a45b2adb10b83c93705fa4ceac1a1e731b7fb94c78"
-    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+0/Libcap_Ng.v0.7.10.x86_64-linux-musl.tar.gz"
+    sha256 = "e0f6ff15648200d38c282eca18aa732a4959436935f04839249707c38ab0836e"
+    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+1/Libcap_Ng.v0.7.10.aarch64-linux-musl.tar.gz"
+[[Libcap_Ng]]
+arch = "i686"
+git-tree-sha1 = "07215e0063820484d037dad39e7e5e88265bebc8"
+libc = "glibc"
+os = "linux"
+
+    [[Libcap_Ng.download]]
+    sha256 = "484a74290ceff29980033f48add8f328a72b3a9e11d7846b5a171937084a5292"
+    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+1/Libcap_Ng.v0.7.10.i686-linux-gnu.tar.gz"
+[[Libcap_Ng]]
+arch = "x86_64"
+git-tree-sha1 = "69ea198ee3a90347d89548f3b09ee6363a2a0d0f"
+libc = "musl"
+os = "linux"
+
+    [[Libcap_Ng.download]]
+    sha256 = "9c8487447ae7a6d7822cc30f75a1637dbd1710669b3bdcb86a9de7a473456014"
+    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+1/Libcap_Ng.v0.7.10.x86_64-linux-musl.tar.gz"
+[[Libcap_Ng]]
+arch = "x86_64"
+git-tree-sha1 = "2fe23469271decadad436be3fde080544d15aa12"
+libc = "glibc"
+os = "linux"
+
+    [[Libcap_Ng.download]]
+    sha256 = "e41d8a7766436b6cb22c5ced7ff667a501f9512c6ab7cfd19759b714956621a4"
+    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+1/Libcap_Ng.v0.7.10.x86_64-linux-gnu.tar.gz"
+[[Libcap_Ng]]
+arch = "powerpc64le"
+git-tree-sha1 = "99b062ebbc9e01a4f2e940d752ff27a639a6967f"
+libc = "glibc"
+os = "linux"
+
+    [[Libcap_Ng.download]]
+    sha256 = "a7d72b9f1e7e5aa98f8f7b5277919ed764f2988178a28093b010bacdbcce49ad"
+    url = "https://github.com/JuliaBinaryWrappers/Libcap_Ng_jll.jl/releases/download/Libcap_Ng-v0.7.10+1/Libcap_Ng.v0.7.10.powerpc64le-linux-gnu.tar.gz"
